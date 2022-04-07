@@ -1,0 +1,12 @@
+D:\CodeProjects\IAC_Practika\SmevBot\SmevBot\bin\Debug\SmevBot.exe.config
+D:\CodeProjects\IAC_Practika\SmevBot\SmevBot\bin\Debug\SmevBot.exe
+D:\CodeProjects\IAC_Practika\SmevBot\SmevBot\bin\Debug\SmevBot.pdb
+D:\CodeProjects\IAC_Practika\SmevBot\SmevBot\obj\Debug\SmevBot.csproj.AssemblyReference.cache
+D:\CodeProjects\IAC_Practika\SmevBot\SmevBot\obj\Debug\SmevBot.csproj.SuggestedBindingRedirects.cache
+D:\CodeProjects\IAC_Practika\SmevBot\SmevBot\obj\Debug\SmevBot.csproj.CoreCompileInputs.cache
+D:\CodeProjects\IAC_Practika\SmevBot\SmevBot\obj\Debug\SmevBot.exe
+D:\CodeProjects\IAC_Practika\SmevBot\SmevBot\obj\Debug\SmevBot.pdb
+D:\CodeProjects\IAC_Practika\SmevBot\SmevBot\bin\Debug\HtmlAgilityPack.dll
+D:\CodeProjects\IAC_Practika\SmevBot\SmevBot\bin\Debug\HtmlAgilityPack.pdb
+D:\CodeProjects\IAC_Practika\SmevBot\SmevBot\bin\Debug\HtmlAgilityPack.xml
+D:\CodeProjects\IAC_Practika\SmevBot\SmevBot\obj\Debug\SmevBot.csproj.CopyComplete

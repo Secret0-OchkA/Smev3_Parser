@@ -46,11 +46,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="IDoc.cs" />
-    <Compile Include="IParserFilter.cs" />
+    <Compile Include="Smev3\GetResponseSmev3.cs" />
     <Compile Include="ParserWorker.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Smev3\Smev3Doc.cs" />
+    <Compile Include="Smev3\Smev3Filter.cs" />
+    <Compile Include="Smev3\Smev3Info.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

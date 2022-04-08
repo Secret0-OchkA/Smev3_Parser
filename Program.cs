@@ -1,4 +1,5 @@
 ﻿using HtmlAgilityPack;
+using SmevBot.Smev3;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,12 +12,18 @@ namespace SmevBot
     {
         static void Main(string[] args)
         {
-            var worker = new ParserWorker<Smev3Filters>(Smev3Filters.GetDefault());
+            var worker = new ParserWorker(Smev3Filter.GetDefault());
             var docs = worker.GetDocs();
-
+            foreach(var doc in docs)
+            {
+                Console.WriteLine(doc);
+            }
+            
         }
     }
 }
+
+
 
 //Вид сведений:fed || reg                                           //zone
 //Выбрать: Тестовая среда; Продуктивная среда                       //dispayTestReques || displayProdRequest
